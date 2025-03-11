@@ -1,0 +1,3 @@
+C:\Users\Ксения\Desktop\курсач с++\ConsoleApp\ConsoleApp\x64\Debug\ConsoleApp.vcxproj.MdMergeInputs.cache
+C:\Users\Ксения\Desktop\курсач с++\ConsoleApp\ConsoleApp\x64\Debug\ConsoleApp.vcxproj.cppwinrt_plat.cache
+C:\Users\Ксения\Desktop\курсач с++\ConsoleApp\ConsoleApp\x64\Debug\ConsoleApp.vcxproj.cppwinrt_comp.cache
